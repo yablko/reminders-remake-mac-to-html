@@ -1,0 +1,9 @@
+body {
+	background-image: linear-gradient(
+		to right,
+		rgb(248, 113, 133),
+		rgb(244, 114, 182)
+	);
+
+	min-height: 100vh;
+}
