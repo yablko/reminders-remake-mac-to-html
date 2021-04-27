@@ -28,7 +28,7 @@ main {
 /* TITLES */
 h1 {
 	font-size: 2.25rem;
-	font-family: "Arial Rounded MT Bold";
+	font-family: "Arial Rounded MT Bold", "Nunito", sans-serif;
 	margin-bottom: 1.725rem;
 }
 
