@@ -50,3 +50,9 @@ h1.all {
 h1.flagged {
 	color: rgb(var(--color-flagged));
 }
+
+/* TODOS */
+.todos p {
+	padding: 0.625rem 0;
+	border-bottom: 1px solid rgb(55, 65, 81);
+}
