@@ -67,3 +67,42 @@ input::placeholder {
 	color: white;
 	font-weight: normal;
 }
+
+/* NAVIGATION */
+nav {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 0.5rem;
+}
+
+nav a {
+	font-weight: bold;
+	background: rgba(255, 255, 255, 0.2);
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+}
+
+nav a:hover,
+nav a:active {
+	color: white;
+}
+
+nav .today:hover,
+nav .today:active {
+	background: rgb(96, 165, 250);
+}
+
+nav .scheduled:hover,
+nav .scheduled:active {
+	background: rgb(239, 68, 68);
+}
+
+nav .all:hover,
+nav .all:active {
+	background: rgb(55, 65, 81);
+}
+
+nav .flagged:hover,
+nav .flagged:active {
+	background: rgb(245, 158, 11);
+}
