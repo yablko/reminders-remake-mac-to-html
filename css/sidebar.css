@@ -6,6 +6,7 @@ aside {
 /* CLOSE, MINIMIZE, MAXIMIZE */
 .controls {
 	display: flex;
+	flex-direction: row;
 	margin-bottom: 1.25rem;
 }
 
