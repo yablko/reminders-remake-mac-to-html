@@ -3,8 +3,10 @@ aside {
 	width: 33.333333%;
 }
 
+/* CLOSE, MINIMIZE, MAXIMIZE */
 .controls {
 	display: flex;
+	margin-bottom: 1.25rem;
 }
 
 .controls button {
@@ -43,4 +45,25 @@ aside {
 .controls .maximize:hover,
 .controls .maximize:active {
 	background: rgb(16, 185, 129);
+}
+
+/* FORM */
+input {
+	color: white;
+	font-weight: bold;
+
+	border: none;
+	border-top: 1px solid rgb(55, 65, 81);
+	border-left: 1px solid rgb(55, 65, 81);
+
+	background: rgb(255, 255, 255, 0.4);
+	border-radius: 0.375rem;
+
+	width: 100%;
+	padding: 0.5rem;
+}
+
+input::placeholder {
+	color: white;
+	font-weight: normal;
 }
