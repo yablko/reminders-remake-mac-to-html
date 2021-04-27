@@ -1,3 +1,11 @@
+:root {
+	--color-today: 96, 165, 250;
+	--color-scheduled: 239, 68, 68;
+	--color-all: 156, 163, 175;
+	--color-all-darker: 55, 65, 81;
+	--color-flagged: 245, 158, 11;
+}
+
 html {
 	font-size: 100%;
 }

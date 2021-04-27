@@ -30,20 +30,23 @@ h1 {
 	font-size: 2.25rem;
 	font-family: "Arial Rounded MT Bold", "Nunito", sans-serif;
 	margin-bottom: 1.725rem;
+
+	display: none;
 }
 
 h1.today {
-	color: rgb(96, 165, 250);
+	color: rgb(var(--color-today));
+	display: block;
 }
 
 h1.scheduled {
-	color: rgb(239, 68, 68);
+	color: rgb(var(--color-scheduled));
 }
 
 h1.all {
-	color: rgb(156, 163, 175);
+	color: rgb(var(--color-all));
 }
 
 h1.flagged {
-	color: rgb(245, 158, 11);
+	color: rgb(var(--color-flagged));
 }

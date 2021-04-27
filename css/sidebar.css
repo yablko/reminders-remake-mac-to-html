@@ -90,20 +90,20 @@ nav a:active {
 
 nav .today:hover,
 nav .today:active {
-	background: rgb(96, 165, 250);
+	background: rgb(var(--color-today));
 }
 
 nav .scheduled:hover,
 nav .scheduled:active {
-	background: rgb(239, 68, 68);
+	background: rgb(var(--color-scheduled));
 }
 
 nav .all:hover,
 nav .all:active {
-	background: rgb(55, 65, 81);
+	background: rgb(var(--color-all-darker));
 }
 
 nav .flagged:hover,
 nav .flagged:active {
-	background: rgb(245, 158, 11);
+	background: rgb(var(--color-flagged));
 }
