@@ -2,3 +2,15 @@ aside {
 	background: rgb(75, 85, 99);
 	width: 33.333333%;
 }
+
+.controls {
+	display: flex;
+}
+
+.controls button {
+	width: 1rem;
+	height: 1rem;
+	margin: 0.25rem;
+	background: yellow;
+	border-radius: 1rem;
+}
