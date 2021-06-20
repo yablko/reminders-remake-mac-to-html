@@ -1,6 +1,6 @@
 # Prerobím Mac  appku do HTML a CSS 
 
-**HTML a CSS kurz 🇸🇰** Prerobím macOS appku do HTML a CSS. Počas toho ti vysveltím Flexbox, CSS Grid, relatívne jednotky, CSS premenné, SVG... Keď sa učíš, najlepšie je mať projekt. Nestačí pozerať, nestačí čítať, musíš si to skúšať, len tak sa naučíš. Ak žiaden projekt nemáš, vymysli si. Ak ti nič nenapadá, okopíruj niečo existujúce! Chyť telefón, otvor appku, hociktorú, pridaj vlastné nápady, ideš!
+**HTML a CSS kurz 🇸🇰** Prerobím macOS appku do HTML a CSS. Počas toho ti vysvetlím Flexbox, CSS Grid, relatívne jednotky, CSS premenné, SVG... Keď sa učíš, najlepšie je mať projekt. Nestačí pozerať, nestačí čítať, musíš si to skúšať, len tak sa naučíš. Ak žiaden projekt nemáš, vymysli si. Ak ti nič nenapadá, okopíruj niečo existujúce! Chyť telefón, otvor appku, hociktorú, pridaj vlastné nápady, ideš!
   
 Presne to som spravil. Na ukážku. Vzal som macOS appku a prerobil ju do HTML a CSS. Počas toho ťa naučím niekoľko vecí, ktoré do CSS pribudli od vydavania [Webrebel kurzu](https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript). Toto video je pokračovanie kurzu [HTML a CSS od základov 🇸🇰](https://github.com/yablko/html-a-css-zaklady). Ak začínaš, pozri si to najprv ten, potom sa vráť sem.
 
