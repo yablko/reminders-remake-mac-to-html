@@ -63,7 +63,7 @@ Patróni majú všetky videá skôr, kurzy dostanú aj ako text, občas im hodí
 :: http://danielgago.sk/testy/flex-box_tutorialPage.html  
 :: http://danielgago.sk/testy/grid_tutorialPage.html  
   
-**OSTATNÉ**
+**OSTATNÉ**  
 :: https://docs.emmet.io    
 :: https://www.czechitas.cz/cs/blog/zaciname-s-it/frontend-vs-backend  
 
@@ -77,10 +77,19 @@ kopíruj a kradni z kódu
 
 ### DOMÁCA ÚLOHA! (píš kód, skúšaj si to, len tak sa naučíš!)
 
-    [todo:]
+    - v kurz spravim layout appky cez flexbox
+      - prerob to na grid 
+      
+    - dokonci poslednu "My lists" sekciu 
+      - v kurze uvidis, ako ma vyzerat 
+      - kod napis sama (je to "len" opakovanie toho isteho, co v kurze ukazujem)
 
-    - 
-
+    - ak vies javascript, rozhyb aplikaciu
+      - ze mozes pridavat nove todos 
+      - upravovat, mazat todos
+      - oznacit todo ako hotovy
+      
+    - ak nevies javascript, nevadi, raz ta naucim;)
 
 ---
 
