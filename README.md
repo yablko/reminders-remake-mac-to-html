@@ -18,10 +18,13 @@ Patróni majú všetky videá skôr, kurzy dostanú aj ako text, občas im hodí
 --- 
   
 ### Odkazy
+
+**HTML a CSS od základov 🇸🇰**  
+:: https://youtu.be/LULd0858mUQ
     
 **FLEXBOX, CSS GRID**  
 :: https://css-tricks.com/snippets/css/a-guide-to-flexbox  
- :: https://css-tricks.com/snippets/css/complete-guide-grid  
+:: https://css-tricks.com/snippets/css/complete-guide-grid  
 :: https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid  
 :: https://medium.com/free-code-camp/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af  
 :: https://bitsofco.de/css-grid-terminology  
